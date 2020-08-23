@@ -1,0 +1,20 @@
+{
+  "name": "nations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "watch": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diamond",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "minecraft-server-util": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^3.2.2"
+  }
+}
